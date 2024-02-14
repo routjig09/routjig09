@@ -8,15 +8,15 @@
 " target="blank"><img src="https://img.shields.io/twitter/follow/jigyansharout?logo=twitter&style=for-the-badge
 " alt="jigyansharout" /></a> </p>
 
-- 🌱 I’m currently learning **AI/ML , DSA**
+- 🌱 I’m currently learning *AI/ML , DSA*
 
 - 👨‍💻 All of my projects are available at [https://github.com/routjig09
 ](https://github.com/routjig09)
 
 
-- 💬 Ask me about **Java , Python**
+- 💬 Ask me about *Java , Python*
 
-- 📫 How to reach me **routjig09@gmail.com**
+- 📫 How to reach me *routjig09@gmail.com*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -56,10 +56,4 @@
 " alt="react" width="40" height="40"/> </a> </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=routjig09&show_icons=true&locale=en&layout=compact
-" alt="routjig09" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=routjig09&show_icons=true&locale=en
-" alt="routjig09" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=routjig09&
 " alt="routjig09" /></p>
