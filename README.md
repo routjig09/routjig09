@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭I am currently working on backend development.<br>👯‍♀️I am looking for help with DSA.<br>🤝I am currently learning UI/UX design.<br>🧠Ask me about Java.
+🔭I am currently working on backend development.<br>👯‍♀️I am looking for help with DSA.<br>🤝I am currently learning AI and AWS.<br>🧠Ask me about Java.
 
 
 ## 🌐 Socials:
